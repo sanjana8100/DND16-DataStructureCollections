@@ -13,8 +13,11 @@
             //C3_LinkedList linkedList = new C3_LinkedList();
             //linkedList.LinkedListMethod();
 
-            C4_Stack stack = new C4_Stack();
-            stack.StackMethod();
+            //C4_Stack stack = new C4_Stack();
+            //stack.StackMethod();
+
+            C5_Queue queue = new C5_Queue();
+            queue.QueueMethod();
         }
     }
 }
