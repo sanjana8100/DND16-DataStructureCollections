@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\bin\Debug\net6.0\DND16-DataStructureCollections.exe
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\bin\Debug\net6.0\DND16-DataStructureCollections.deps.json
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\bin\Debug\net6.0\DND16-DataStructureCollections.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\bin\Debug\net6.0\DND16-DataStructureCollections.dll
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\bin\Debug\net6.0\DND16-DataStructureCollections.pdb
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\DND16-DataStructureCollections.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\DND16-DataStructureCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\DND16-DataStructureCollections.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\DND16-DataStructureCollections.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\DND16-DataStructureCollections.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\DND16-DataStructureCollections.dll
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\refint\DND16-DataStructureCollections.dll
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\DND16-DataStructureCollections.pdb
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\DND16-DataStructureCollections.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND16-DataStructureCollections\DND16-DataStructureCollections\obj\Debug\net6.0\ref\DND16-DataStructureCollections.dll

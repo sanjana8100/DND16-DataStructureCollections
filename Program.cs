@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            C1_ArrayList arrayList = new C1_ArrayList();
+            arrayList.ArrayListMethod();
         }
     }
 }
