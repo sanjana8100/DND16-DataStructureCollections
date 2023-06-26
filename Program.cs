@@ -16,8 +16,11 @@
             //C4_Stack stack = new C4_Stack();
             //stack.StackMethod();
 
-            C5_Queue queue = new C5_Queue();
-            queue.QueueMethod();
+            //C5_Queue queue = new C5_Queue();
+            //queue.QueueMethod();
+
+            C6_HashSet hashSet = new C6_HashSet();
+            hashSet.HashSetMethod();
         }
     }
 }
