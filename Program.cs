@@ -19,8 +19,11 @@
             //C5_Queue queue = new C5_Queue();
             //queue.QueueMethod();
 
-            C6_HashSet hashSet = new C6_HashSet();
-            hashSet.HashSetMethod();
+            //C6_HashSet hashSet = new C6_HashSet();
+            //hashSet.HashSetMethod();
+
+            C7_List list = new C7_List();
+            list.ListMethod();
         }
     }
 }
