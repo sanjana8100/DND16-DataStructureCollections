@@ -22,8 +22,11 @@
             //C6_HashSet hashSet = new C6_HashSet();
             //hashSet.HashSetMethod();
 
-            C7_List list = new C7_List();
-            list.ListMethod();
+            //C7_List list = new C7_List();
+            //list.ListMethod();
+
+            C8_Dictionary dictionary = new C8_Dictionary();
+            dictionary.DictionaryMethod();
         }
     }
 }
